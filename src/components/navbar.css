@@ -1,22 +1,22 @@
-/* Navbar.css */
+
 
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
-    background-color: #333;
+    background-color: #f1f0f0;
   }
   
   .navbar-brand {
-    color: #fff;
+    color: #ff4757;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 3rem;
   }
   
   .navbar-toggler {
     display: none;
-    background-color: #fff;
+    background-color: #f8f5f5;
     border: none;
     cursor: pointer;
   }
@@ -25,7 +25,7 @@
     display: inline-block;
     width: 30px;
     height: 3px;
-    background-color: #333;
+    background-color: #f7f4f4;
     margin: 5px 0;
   }
   
@@ -46,17 +46,18 @@
   }
   
   .nav-link {
-    color: #fff;
+    color: #111111;
     text-decoration: none;
     padding: 0.5rem 1rem;
+    font-size: 25px;
   }
   
   .nav-link:hover {
-    background-color: #575757;
+    background-color: #949090;
     border-radius: 5px;
   }
   
-  /* Responsive styling */
+  
   @media (max-width: 768px) {
     .navbar-toggler {
       display: block;

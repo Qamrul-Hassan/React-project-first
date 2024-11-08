@@ -1,0 +1,11 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Adjust gap for spacing between components */
+  }
+  
+  /* Additional spacing between sections if needed */
+  .section, .navbar, .consult-container {
+    margin-bottom: 30px; /* Add spacing if components are overlapping */
+  }
+  
