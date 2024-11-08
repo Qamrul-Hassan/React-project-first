@@ -11,7 +11,7 @@
 }
 
 .title {
-  font-size: 3.5rem; 
+  font-size: 3rem; 
   font-weight: bold;
   margin-bottom: 0.5rem;
 }
@@ -21,14 +21,14 @@
 }
 
 .subtitle {
-  font-size: 2rem; /
+  font-size: 1.5rem; /
   font-weight: 600;
   color: #f44336;
   margin-bottom: 1rem;
 }
 
 .description {
-  font-size: 1.3rem; 
+  font-size: 1.1rem; 
   color: #666;
   margin-bottom: 1.5rem;
 }
